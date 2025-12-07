@@ -1,5 +1,7 @@
 # Projekt-x
 
+(Verbessert)
+
 ## Ziel
 
 Das Ziel ist die Migration der aktuellen monolithischen E-Commerce-Plattform in eine Microservices-Architektur auf einer Cloud-nativen Umgebung, um die Skalierbarkeit zu erhöhen und die Bereitstellungszyklen zu verkürzen.
